@@ -1,6 +1,3 @@
-//omar Abdelhamid Yehia El-Adly
-//55-7975
-
 #include <GL/glut.h>
 #include <algorithm>
 #include <cmath>
